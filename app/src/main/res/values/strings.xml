@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Toast</string>
+    <string name="show">Show Toast</string>
 </resources>
